@@ -20,3 +20,6 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vue-demo
+===========================================================================================
+此文主要针对入门vue同学的小案例
+能轻松的看懂vue处理流程
